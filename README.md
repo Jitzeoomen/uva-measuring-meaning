@@ -17,7 +17,7 @@
 |Coronavirus Tweets|Rdata|[Coronavirus Tweets](data/coronavirus_tweets.Rdata)|
 |Apple Mobility Data|csv|[Apple Mobility](data/apple_mobility_data.csv)|
 |Apple Mobility Data|Rdata|[Apple Mobility](data/apple_mobility_data.Rdata)|
-|Senators|Rdata|[Senators](data/senators_data.Rdata.Rdata)|
+|Senators|Rdata|[Senators](data/senators_data.Rdata)|
 |WAPO Opiod|Rdata|[WAPO Opiod](data/wapo_opioid_data.Rdata)|
 
 
