@@ -2,9 +2,9 @@
 
 ## Solutions to the R Tutorial
 
-|Tutorial|Language|File|
+|Tutorial|Notebook|File|
 |---|---|---|
-|R Basics|R|[Basics](basics.R)|
+|R Basics|[NB](basics.ipynb)|[Basics](basics.R)|
 |Data Wrangling|R|[Wrangling](data-wrangling.R)|
 |Data Visualisation|R|[Visualisation](data-visualisation.R)|
 |Basic Programming|R|[Programming](programming.R)|
