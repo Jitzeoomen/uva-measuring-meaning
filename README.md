@@ -5,10 +5,17 @@
 |Tutorial|Notebook|File|
 |---|---|---|
 |R Basics|[NB](basics.ipynb)|[Basics](basics.R)|
-|Data Wrangling|R|[Wrangling](data-wrangling.R)|
+|Data Wrangling|[NB](data-wrangling.ipynb)|[Wrangling](data-wrangling.R)|
 |Data Visualisation|R|[Visualisation](data-visualisation.R)|
 |Basic Programming|R|[Programming](programming.R)|
 |Modeling|R|[Modeling](modeling.R)|
+
+## Class assignments
+
+Session|Notebook|File|
+|---|---|---|
+|1.2|[NB](campnet.ipynb)|[Compnet](campnet.R)|
+
 
 ## Data files
 
