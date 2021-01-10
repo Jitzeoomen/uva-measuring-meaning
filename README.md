@@ -14,8 +14,9 @@
 
 Session|Notebook|File|
 |---|---|---|
-|1.2|[NB](campnet.ipynb)|[Compnet](campnet.R)|
-
+|1.2|[NB](campnet.ipynb)|[Campnet](campnet.R)|
+|2.1|[NB](two-mode-networks.ipynb)|[Two Mode Networks](two-mode-networks.R)|
+|2.1|[NB](mohr.ipynb)|[Soldiers, Mothers, Tramps and Others](two-mode-networks.R)|
 
 ## Data files
 
@@ -26,5 +27,10 @@ Session|Notebook|File|
 |Apple Mobility Data|Rdata|[Apple Mobility](data/apple_mobility_data.Rdata)|
 |Senators|Rdata|[Senators](data/senators_data.Rdata)|
 |WAPO Opiod|Rdata|[WAPO Opiod](data/wapo_opioid_data.Rdata)|
+|Campnet|csv|[Campnet](data/campnet.txt)[Camp Attributes](data/campattr.txt)|
+|Two Mode Networks|csv|[Davis](data/davis.txt)|
+|Soldiers, Mothers, Tramps and Others|csv|[Mohr](data/soldiers.txt)|
+
+
 
 
