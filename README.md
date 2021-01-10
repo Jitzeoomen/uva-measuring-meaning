@@ -14,9 +14,9 @@
 
 Session|Notebook Viewer|ipynb|R File|
 |---|---|---|---|
-|1.2|[Campnet](nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/campnet.ipynb)|[NB](campnet.ipynb)|[R](campnet.R)|
-|2.1|[Two Mode Networks](nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/two-mode-networks.ipynb)|[NB](two-mode-networks.ipynb)|[R](two-mode-networks.R)|
-|2.1|[Soldiers, Mothers, Tramps and Others](nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/mohr.ipynb) |[NB](mohr.ipynb)|[R](two-mode-networks.R)|
+|1.2|[Campnet](https://nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/campnet.ipynb)|[NB](campnet.ipynb)|[R](campnet.R)|
+|2.1|[Two Mode Networks](https://nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/two-mode-networks.ipynb)|[NB](two-mode-networks.ipynb)|[R](two-mode-networks.R)|
+|2.1|[Soldiers, Mothers, Tramps and Others](https://nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/mohr.ipynb) |[NB](mohr.ipynb)|[R](two-mode-networks.R)|
 
 ## Data files
 
