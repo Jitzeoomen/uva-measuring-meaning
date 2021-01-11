@@ -4,19 +4,19 @@
 
 |Tutorial|Notebook|File|
 |---|---|---|
-|R Basics|[NB](basics.ipynb)|[Basics](basics.R)|
-|Data Wrangling|[NB](data-wrangling.ipynb)|[Wrangling](data-wrangling.R)|
-|Data Visualisation|R|[Visualisation](data-visualisation.R)|
-|Basic Programming|R|[Programming](programming.R)|
-|Modeling|R|[Modeling](modeling.R)|
+|R Basics|[NB](ipynb/basics.ipynb)|[Basics](R/basics.R)|
+|Data Wrangling|[NB](ipynb/data-wrangling.ipynb)|[Wrangling](R/data-wrangling.R)|
+|Data Visualisation|[NB](ipynb/data-visualisation.ipynb)|[Visualisation](R/data-visualisation.R)|
+|Basic Programming|R|[Programming](R/programming.R)|
+|Modeling|R|[Modeling](R/modeling.R)|
 
 ## Class assignments
 
 Session|Notebook Viewer|ipynb|R File|
 |---|---|---|---|
-|1.2|[Campnet](https://nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/campnet.ipynb)|[NB](campnet.ipynb)|[R](campnet.R)|
-|2.1|[Two Mode Networks](https://nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/two-mode-networks.ipynb)|[NB](two-mode-networks.ipynb)|[R](two-mode-networks.R)|
-|2.1|[Soldiers, Mothers, Tramps and Others](https://nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/mohr.ipynb) |[NB](mohr.ipynb)|[R](two-mode-networks.R)|
+|1.2|[Campnet](https://nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/campnet.ipynb)|[NB](ipynb/campnet.ipynb)|[R](R/campnet.R)|
+|2.1|[Two Mode Networks](https://nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/two-mode-networks.ipynb)|[NB](ipynb/two-mode-networks.ipynb)|[R](R/two-mode-networks.R)|
+|2.1|[Soldiers, Mothers, Tramps and Others](https://nbviewer.jupyter.org/github/Jitzeoomen/uva-measuring-meaning/blob/main/mohr.ipynb) |[NB](ipynb/mohr.ipynb)|[R](R/two-mode-networks.R)|
 
 ## Data files
 
